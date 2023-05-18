@@ -1,0 +1,47 @@
+../Trajs_Filtered_1eV_Random/random_traj_N2.traj
+species: ['H', 'N', 'Sc', 'Ti', 'V', 'Cr', 'Mn', 'Fe', 'Co', 'Ni', 'Cu']
+(3000, 1, 8976)
+../Trajs_Filtered_1eV_Random/random_traj_N.traj
+species: ['H', 'N', 'Sc', 'Ti', 'V', 'Cr', 'Mn', 'Fe', 'Co', 'Ni', 'Cu']
+(2470, 1, 8976)
+../Trajs_Filtered_1eV_Random/random_traj_NH.traj
+species: ['H', 'N', 'Sc', 'Ti', 'V', 'Cr', 'Mn', 'Fe', 'Co', 'Ni', 'Cu']
+(3000, 1, 8976)
+../Trajs_Filtered_1eV_Random/random_traj_NH2.traj
+species: ['H', 'N', 'Sc', 'Ti', 'V', 'Cr', 'Mn', 'Fe', 'Co', 'Ni', 'Cu']
+(3000, 1, 8976)
+../Trajs_Filtered_1eV_Random/random_traj_NH2NH2.traj
+species: ['H', 'N', 'Sc', 'Ti', 'V', 'Cr', 'Mn', 'Fe', 'Co', 'Ni', 'Cu']
+(3000, 1, 8976)
+../Trajs_Filtered_1eV_Random/random_traj_NHNH.traj
+species: ['H', 'N', 'Sc', 'Ti', 'V', 'Cr', 'Mn', 'Fe', 'Co', 'Ni', 'Cu']
+(3000, 1, 8976)
+../Trajs_Filtered_1eV_Random/random_traj_NHNH2.traj
+species: ['H', 'N', 'Sc', 'Ti', 'V', 'Cr', 'Mn', 'Fe', 'Co', 'Ni', 'Cu']
+(3000, 1, 8976)
+../Trajs_Filtered_1eV_Random/random_traj_NNH.traj
+species: ['H', 'N', 'Sc', 'Ti', 'V', 'Cr', 'Mn', 'Fe', 'Co', 'Ni', 'Cu']
+(3000, 1, 8976)
+../Trajs_Filtered_1eV_Random/random_traj_NNH2.traj
+species: ['H', 'N', 'Sc', 'Ti', 'V', 'Cr', 'Mn', 'Fe', 'Co', 'Ni', 'Cu']
+(3000, 1, 8976)
+Completed descriptor generation
+Stacking descripor arrays
+(3000, 1, 8976)
+(2470, 1, 8976)
+stacked a (5470, 1, 8976)
+(3000, 1, 8976)
+stacked a (8470, 1, 8976)
+(3000, 1, 8976)
+stacked a (11470, 1, 8976)
+(3000, 1, 8976)
+stacked a (14470, 1, 8976)
+(3000, 1, 8976)
+stacked a (17470, 1, 8976)
+(3000, 1, 8976)
+stacked a (20470, 1, 8976)
+(3000, 1, 8976)
+stacked a (23470, 1, 8976)
+(3000, 1, 8976)
+stacked a (26470, 1, 8976)
+(26470, 1, 8976)

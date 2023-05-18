@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Cu10NH2
+_chemical_formula_sum              "Cu10 N1 H2"
+_cell_length_a       14
+_cell_length_b       14
+_cell_length_c       14
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.49728  0.50151  0.66849  1.0000
+  Cu  Cu2       1.0  0.62345  0.56514  0.56183  1.0000
+  Cu  Cu3       1.0  0.52455  0.36365  0.56772  1.0000
+  Cu  Cu4       1.0  0.37484  0.45850  0.56959  1.0000
+  Cu  Cu5       1.0  0.45817  0.62541  0.56944  1.0000
+  Cu  Cu6       1.0  0.62426  0.46072  0.42756  1.0000
+  Cu  Cu7       1.0  0.45519  0.37482  0.42623  1.0000
+  Cu  Cu8       1.0  0.37485  0.54173  0.42938  1.0000
+  Cu  Cu9       1.0  0.54083  0.62574  0.42998  1.0000
+  Cu  Cu10      1.0  0.50004  0.50041  0.33131  1.0000
+  N   N1        1.0  0.63849  0.42110  0.60084  1.0000
+  H   H1        1.0  0.69877  0.39368  0.55737  1.0000
+  H   H2        1.0  0.64108  0.42698  0.68091  1.0000

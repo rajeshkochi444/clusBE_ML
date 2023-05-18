@@ -1,0 +1,47 @@
+../Trajs_Filtered_1eV/filtered_traj_1eV_N2.traj
+species: ['H', 'N', 'Sc', 'Ti', 'V', 'Cr', 'Mn', 'Fe', 'Co', 'Ni', 'Cu']
+(19232, 1, 8976)
+../Trajs_Filtered_1eV/filtered_traj_1eV_N.traj
+species: ['H', 'N', 'Sc', 'Ti', 'V', 'Cr', 'Mn', 'Fe', 'Co', 'Ni', 'Cu']
+(3529, 1, 8976)
+../Trajs_Filtered_1eV/filtered_traj_1eV_NH.traj
+species: ['H', 'N', 'Sc', 'Ti', 'V', 'Cr', 'Mn', 'Fe', 'Co', 'Ni', 'Cu']
+(6364, 1, 8976)
+../Trajs_Filtered_1eV/filtered_traj_1eV_NH2.traj
+species: ['H', 'N', 'Sc', 'Ti', 'V', 'Cr', 'Mn', 'Fe', 'Co', 'Ni', 'Cu']
+(9458, 1, 8976)
+../Trajs_Filtered_1eV/filtered_traj_1eV_NH2NH2.traj
+species: ['H', 'N', 'Sc', 'Ti', 'V', 'Cr', 'Mn', 'Fe', 'Co', 'Ni', 'Cu']
+(13584, 1, 8976)
+../Trajs_Filtered_1eV/filtered_traj_1eV_NHNH.traj
+species: ['H', 'N', 'Sc', 'Ti', 'V', 'Cr', 'Mn', 'Fe', 'Co', 'Ni', 'Cu']
+(8992, 1, 8976)
+../Trajs_Filtered_1eV/filtered_traj_1eV_NHNH2.traj
+species: ['H', 'N', 'Sc', 'Ti', 'V', 'Cr', 'Mn', 'Fe', 'Co', 'Ni', 'Cu']
+(19858, 1, 8976)
+../Trajs_Filtered_1eV/filtered_traj_1eV_NNH.traj
+species: ['H', 'N', 'Sc', 'Ti', 'V', 'Cr', 'Mn', 'Fe', 'Co', 'Ni', 'Cu']
+(18445, 1, 8976)
+../Trajs_Filtered_1eV/filtered_traj_1eV_NNH2.traj
+species: ['H', 'N', 'Sc', 'Ti', 'V', 'Cr', 'Mn', 'Fe', 'Co', 'Ni', 'Cu']
+(19567, 1, 8976)
+Completed descriptor generation
+Stacking descripor arrays
+(19232, 1, 8976)
+(3529, 1, 8976)
+stacked a (22761, 1, 8976)
+(6364, 1, 8976)
+stacked a (29125, 1, 8976)
+(9458, 1, 8976)
+stacked a (38583, 1, 8976)
+(13584, 1, 8976)
+stacked a (52167, 1, 8976)
+(8992, 1, 8976)
+stacked a (61159, 1, 8976)
+(19858, 1, 8976)
+stacked a (81017, 1, 8976)
+(18445, 1, 8976)
+stacked a (99462, 1, 8976)
+(19567, 1, 8976)
+stacked a (119029, 1, 8976)
+(119029, 1, 8976)
